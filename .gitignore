@@ -1,5 +1,11 @@
 .venv
 venv
+
+# OS Nonsense
 .DS_Store
-sandbox.py
+
+# pycache
 __pycache__
+
+# test file
+sandbox.py
