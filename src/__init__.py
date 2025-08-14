@@ -1,1 +1,1 @@
-from .calculus import Calculus
+from .calculus import integral, derivative
